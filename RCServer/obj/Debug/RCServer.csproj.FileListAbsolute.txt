@@ -1,0 +1,18 @@
+c:\users\admin\documents\visual studio 2013\Projects\RCServer\RCServer\obj\Debug\RCServer.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\RCServer\RCServer\obj\Debug\RCServer.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\RCServer\RCServer\obj\Debug\RCServer.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\RCServer\RCServer\obj\Debug\RCServer.Server.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\RCServer\RCServer\bin\Debug\Kennet Server.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\RCServer\RCServer\bin\Debug\Kennet Server.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\RCServer\RCServer\bin\Debug\Kennet Server.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\RCServer\RCServer\obj\Debug\Kennet Server.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\RCServer\RCServer\obj\Debug\Kennet Server.pdb
+C:\Users\Admin\Desktop\Rein-Corp-Server-master\RCServer\bin\Debug\Kennet Server.exe.config
+C:\Users\Admin\Desktop\Rein-Corp-Server-master\RCServer\obj\Debug\Kennet Server.exe
+C:\Users\Admin\Desktop\Rein-Corp-Server-master\RCServer\obj\Debug\Kennet Server.pdb
+C:\Users\Admin\Desktop\Rein-Corp-Server-master\RCServer\bin\Debug\Kennet Server.exe
+C:\Users\Admin\Desktop\Rein-Corp-Server-master\RCServer\bin\Debug\Kennet Server.pdb
+C:\Users\Admin\Desktop\Rein-Corp-Server-master\RCServer\obj\Debug\RCServer.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Rein-Corp-Server-master\RCServer\obj\Debug\RCServer.Server.resources
+C:\Users\Admin\Desktop\Rein-Corp-Server-master\RCServer\obj\Debug\RCServer.Properties.Resources.resources
+C:\Users\Admin\Desktop\Rein-Corp-Server-master\RCServer\obj\Debug\RCServer.csproj.GenerateResource.Cache
